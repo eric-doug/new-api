@@ -1,6 +1,6 @@
 package system_setting
 
-var ServerAddress = "https://llm.agihzy.com/"
+var ServerAddress = "https://llm.agihzy.com"
 var WorkerUrl = ""
 var WorkerValidKey = ""
 var WorkerAllowHttpImageRequestEnabled = false
